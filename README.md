@@ -25,7 +25,7 @@ Note: We are still working on improving this codes' implementation.
 To run EC-MSA with the same settings as ours:
 
 ```
-python main.py --source1 <S1FILE> --source2 <S2FILE> --source3 <S3FILE> --target <TFILE>
+python main.py --cuda True --source1 <S1FILE> --source2 <S2FILE> --source3 <S3FILE> --target <TFILE>
 ```
 S1FILE contains source1 dataset. S2FILE contains source2 dataset. S3FILE contains source3 dataset. TFILE contains target dataset. 
 
