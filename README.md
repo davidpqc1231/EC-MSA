@@ -11,6 +11,7 @@ torchvision: 0.6.1
 numpy: 1.18.1
 pandas: 1.0.5
 matplotlib: 3.2.2
+argparse: 1.1
 
 GPU type: Nvidia GeForce GTX 1080
 driver: 440.82
