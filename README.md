@@ -30,5 +30,7 @@ python main.py --cuda True --source1 <S1FILE> --source2 <S2FILE> --source3 <S3FI
 ```
 S1FILE contains source1 dataset. S2FILE contains source2 dataset. S3FILE contains source3 dataset. TFILE contains target dataset. 
 
+Thesis available on https://hammer.purdue.edu/articles/thesis/MULTI-SOURCE_AND_SOURCE-PRIVATE_CROSS-DOMAIN_LEARNING_FOR_VISUAL_RECOGNITION/19610010/1
+
 
 
