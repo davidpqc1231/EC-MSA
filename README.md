@@ -1,5 +1,5 @@
 # EC-MSA
-Implementation for Enhancing Multi-Source Consistency for Cross-Domain Learning (Paper ID: 3123)
+Implementation for Enhancing Multi-Source Consistency for Cross-Domain Learning
 
 Here we use the Office-Home dataset.
 
